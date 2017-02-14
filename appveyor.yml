@@ -1,0 +1,12 @@
+version: 1.0.{build}
+build_script:
+- ps: >-
+    dotnet restore
+
+    dotnet build **/project.json
+
+    cd tests\Clients.EdmundsApi.Tests
+
+    dotnet test
+
+test: off

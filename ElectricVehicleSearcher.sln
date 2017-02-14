@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{996CE187-D7DA-45F2-86E1-67D4D19B3D38}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{05E97CDC-D1F7-495C-8BCF-0FDA5393F7D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{64BB15DC-A4A8-449A-8670-25CBCF90318E}"
+	ProjectSection(SolutionItems) = preProject
+		appveyor.yml = appveyor.yml
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "ElectricVehicleSearcher", "src\ElectricVehicleSearcher\ElectricVehicleSearcher.xproj", "{6A8D6838-3462-479D-8B07-0B15AEEC5792}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Clients.EdmundsApi", "src\Clients.EdmundsApi\Clients.EdmundsApi.xproj", "{08016B07-DC8C-4966-BD10-AB337658C245}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Clients.EdmundsApi.Tests", "tests\Clients.EdmundsApi.Tests\Clients.EdmundsApi.Tests.xproj", "{DBAFAD83-38C4-4BBC-B386-BB9C496ABF3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A8D6838-3462-479D-8B07-0B15AEEC5792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A8D6838-3462-479D-8B07-0B15AEEC5792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A8D6838-3462-479D-8B07-0B15AEEC5792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A8D6838-3462-479D-8B07-0B15AEEC5792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08016B07-DC8C-4966-BD10-AB337658C245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08016B07-DC8C-4966-BD10-AB337658C245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08016B07-DC8C-4966-BD10-AB337658C245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08016B07-DC8C-4966-BD10-AB337658C245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBAFAD83-38C4-4BBC-B386-BB9C496ABF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBAFAD83-38C4-4BBC-B386-BB9C496ABF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBAFAD83-38C4-4BBC-B386-BB9C496ABF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBAFAD83-38C4-4BBC-B386-BB9C496ABF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6A8D6838-3462-479D-8B07-0B15AEEC5792} = {996CE187-D7DA-45F2-86E1-67D4D19B3D38}
+		{08016B07-DC8C-4966-BD10-AB337658C245} = {996CE187-D7DA-45F2-86E1-67D4D19B3D38}
+		{DBAFAD83-38C4-4BBC-B386-BB9C496ABF3A} = {05E97CDC-D1F7-495C-8BCF-0FDA5393F7D5}
+	EndGlobalSection
+EndGlobal

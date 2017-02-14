@@ -1,0 +1,2460 @@
+{
+    "models": [{
+        "id": "Chevrolet_Bolt_EV",
+        "name": "Bolt EV",
+        "niceName": "bolt-ev",
+        "make": {
+            "id": 200000404,
+            "name": "Chevrolet",
+            "niceName": "chevrolet"
+        },
+        "years": [{
+            "id": 200747011,
+            "year": 2017,
+            "styles": [{
+                "id": 401677627,
+                "name": "LT 4dr Hatchback (electric 1DD)",
+                "submodel": {
+                    "body": "Hatchback",
+                    "modelName": "Bolt EV Hatchback",
+                    "niceName": "hatchback"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 200747013,
+                "name": "Premier 4dr Hatchback (electric 1DD)",
+                "submodel": {
+                    "body": "Hatchback",
+                    "modelName": "Bolt EV Hatchback",
+                    "niceName": "hatchback"
+                },
+                "trim": "Premier",
+                "states": ["NEW"]
+            }],
+            "states": ["NEW"]
+        }],
+        "states": ["NEW", "FUTURE"]
+    }, {
+        "id": "Chevrolet_Camaro",
+        "name": "Camaro",
+        "niceName": "camaro",
+        "make": {
+            "id": 200000404,
+            "name": "Chevrolet",
+            "niceName": "chevrolet"
+        },
+        "years": [{
+            "id": 401642255,
+            "year": 2017,
+          "styles": [
+            {
+              "id": 401642265,
+              "name": "2SS 2dr Coupe (6.2L 8cyl 6M)",
+              "submodel": {
+                "body": "Coupe",
+                "modelName": "Camaro Coupe",
+                "niceName": "coupe"
+              },
+              "trim": "2SS",
+              "states": [ "NEW" ]
+            },
+            {
+              "id": 401642266,
+              "name": "2LT 2dr Coupe (2.0L 4cyl Turbo 6M)",
+              "submodel": {
+                "body": "Coupe",
+                "modelName": "Camaro Coupe",
+                "niceName": "coupe"
+              },
+              "trim": "2LT",
+              "states": [ "NEW" ]
+            },
+            {
+              "id": 401642267,
+              "name": "1LT 2dr Coupe (2.0L 4cyl Turbo 8A)",
+              "submodel": {
+                "body": "Coupe",
+                "modelName": "Camaro Coupe",
+                "niceName": "coupe"
+              },
+              "trim": "1LT",
+              "states": [ "NEW" ]
+            },
+            {
+              "id": 401642268,
+              "name": "1SS 2dr Convertible (6.2L 8cyl 6M)",
+              "submodel": {
+                "body": "Convertible",
+                "modelName": "Camaro Convertible",
+                "niceName": "convertible"
+              },
+              "trim": "1SS",
+              "states": [ "NEW" ]
+            },
+            {
+              "id": 401690223,
+              "name": "1LS 2dr Coupe (2.0L 4cyl Turbo 6M)",
+              "submodel": {
+                "body": "Coupe",
+                "modelName": "Camaro Coupe",
+                "niceName": "coupe"
+              },
+              "trim": "1LS",
+              "states": [ "NEW" ]
+            },
+            {
+              "id": 401690224,
+              "name": "1LS 2dr Convertible (2.0L 4cyl Turbo 6M)",
+              "submodel": {
+                "body": "Convertible",
+                "modelName": "Camaro Convertible",
+                "niceName": "convertible"
+              },
+              "trim": "1LS",
+              "states": [ "NEW" ]
+            },
+            {
+              "id": 401642261,
+              "name": "1SS 2dr Coupe (6.2L 8cyl 6M)",
+              "submodel": {
+                "body": "Coupe",
+                "modelName": "Camaro Coupe",
+                "niceName": "coupe"
+              },
+              "trim": "1SS",
+              "states": [ "NEW" ]
+            },
+            {
+              "id": 401642262,
+              "name": "2SS 2dr Convertible (6.2L 8cyl 6M)",
+              "submodel": {
+                "body": "Convertible",
+                "modelName": "Camaro Convertible",
+                "niceName": "convertible"
+              },
+              "trim": "2SS",
+              "states": [ "NEW" ]
+            },
+            {
+              "id": 401690197,
+              "name": "ZL1 2dr Coupe (6.2L 8cyl S/C 6M)",
+              "submodel": {
+                "body": "Coupe",
+                "tuner": "ZL1",
+                "modelName": "Camaro ZL1",
+                "niceName": "zl1"
+              },
+              "trim": "ZL1",
+              "states": [ "NEW" ]
+            },
+            {
+              "id": 401642263,
+              "name": "2LT 2dr Convertible (2.0L 4cyl Turbo 6M)",
+              "submodel": {
+                "body": "Convertible",
+                "modelName": "Camaro Convertible",
+                "niceName": "convertible"
+              },
+              "trim": "2LT",
+              "states": [ "NEW" ]
+            },
+            {
+              "id": 401690198,
+              "name": "ZL1 2dr Convertible (6.2L 8cyl S/C 6M)",
+              "submodel": {
+                "body": "Convertible",
+                "tuner": "ZL1",
+                "modelName": "Camaro ZL1",
+                "niceName": "zl1"
+              },
+              "trim": "ZL1",
+              "states": [ "NEW" ]
+            },
+            {
+              "id": 401642264,
+              "name": "1LT 2dr Convertible (2.0L 4cyl Turbo 8A)",
+              "submodel": {
+                "body": "Convertible",
+                "modelName": "Camaro Convertible",
+                "niceName": "convertible"
+              },
+              "trim": "1LT",
+              "states": [ "NEW" ]
+            }
+          ],
+            "states": ["NEW"]
+        }],
+        "states": ["NEW", "USED"]
+    }, {
+        "id": "Chevrolet_City_Express",
+        "name": "City Express",
+        "niceName": "city-express",
+        "make": {
+            "id": 200000404,
+            "name": "Chevrolet",
+            "niceName": "chevrolet"
+        },
+        "years": [{
+            "id": 401656851,
+            "year": 2017,
+            "styles": [{
+                "id": 401656855,
+                "name": "LT 4dr Minivan (2.0L 4cyl CVT)",
+                "submodel": {
+                    "body": "Minivan",
+                    "modelName": "City Express Minivan",
+                    "niceName": "minivan"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401656854,
+                "name": "LS 4dr Minivan (2.0L 4cyl CVT)",
+                "submodel": {
+                    "body": "Minivan",
+                    "modelName": "City Express Minivan",
+                    "niceName": "minivan"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }],
+            "states": ["NEW"]
+        }],
+        "states": ["NEW", "USED"]
+    }, {
+        "id": "Chevrolet_Colorado",
+        "name": "Colorado",
+        "niceName": "colorado",
+        "make": {
+            "id": 200000404,
+            "name": "Chevrolet",
+            "niceName": "chevrolet"
+        },
+        "years": [{
+            "id": 401694981,
+            "year": 2017,
+            "styles": [{
+                "id": 401695014,
+                "name": "Z71 4dr Crew Cab LB (3.6L 6cyl 8A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Colorado Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "Z71",
+                "states": ["NEW"]
+            }, {
+                "id": 401695013,
+                "name": "Work Truck 4dr Crew Cab 4WD LB (3.6L 6cyl 8A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Colorado Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401695016,
+                "name": "LT 4dr Crew Cab 4WD SB (3.6L 6cyl 8A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Colorado Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401695015,
+                "name": "Z71 4dr Extended Cab 4WD SB (2.5L 4cyl 6A)",
+                "submodel": {
+                    "body": "Extended Cab",
+                    "modelName": "Colorado Extended Cab",
+                    "niceName": "extended-cab"
+                },
+                "trim": "Z71",
+                "states": ["NEW"]
+            }, {
+                "id": 401695012,
+                "name": "Z71 4dr Crew Cab SB (2.5L 4cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Colorado Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "Z71",
+                "states": ["NEW"]
+            }, {
+                "id": 401695011,
+                "name": "Work Truck 4dr Crew Cab 4WD SB (3.6L 6cyl 8A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Colorado Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401694992,
+                "name": "4dr Extended Cab SB (2.5L 4cyl 6M)",
+                "submodel": {
+                    "body": "Extended Cab",
+                    "modelName": "Colorado Extended Cab",
+                    "niceName": "extended-cab"
+                },
+                "trim": "Base",
+                "states": ["NEW"]
+            }, {
+                "id": 401695018,
+                "name": "Z71 4dr Crew Cab 4WD SB (3.6L 6cyl 8A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Colorado Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "Z71",
+                "states": ["NEW"]
+            }, {
+                "id": 401695017,
+                "name": "LT 4dr Crew Cab 4WD LB (3.6L 6cyl 8A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Colorado Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401695019,
+                "name": "Z71 4dr Crew Cab 4WD LB (3.6L 6cyl 8A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Colorado Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "Z71",
+                "states": ["NEW"]
+            }, {
+                "id": 401694995,
+                "name": "LT 4dr Extended Cab SB (2.5L 4cyl 6A)",
+                "submodel": {
+                    "body": "Extended Cab",
+                    "modelName": "Colorado Extended Cab",
+                    "niceName": "extended-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401694996,
+                "name": "Work Truck 4dr Crew Cab LB (3.6L 6cyl 8A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Colorado Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401694993,
+                "name": "Work Truck 4dr Extended Cab SB (2.5L 4cyl 6M)",
+                "submodel": {
+                    "body": "Extended Cab",
+                    "modelName": "Colorado Extended Cab",
+                    "niceName": "extended-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401694994,
+                "name": "Work Truck 4dr Crew Cab SB (2.5L 4cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Colorado Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401694999,
+                "name": "Z71 4dr Extended Cab SB (2.5L 4cyl 6A)",
+                "submodel": {
+                    "body": "Extended Cab",
+                    "modelName": "Colorado Extended Cab",
+                    "niceName": "extended-cab"
+                },
+                "trim": "Z71",
+                "states": ["NEW"]
+            }, {
+                "id": 401695000,
+                "name": "LT 4dr Crew Cab LB (3.6L 6cyl 8A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Colorado Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401694997,
+                "name": "Work Truck 4dr Extended Cab 4WD SB (2.5L 4cyl 6A)",
+                "submodel": {
+                    "body": "Extended Cab",
+                    "modelName": "Colorado Extended Cab",
+                    "niceName": "extended-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401694998,
+                "name": "LT 4dr Crew Cab SB (2.5L 4cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Colorado Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401695001,
+                "name": "LT 4dr Extended Cab 4WD SB (2.5L 4cyl 6A)",
+                "submodel": {
+                    "body": "Extended Cab",
+                    "modelName": "Colorado Extended Cab",
+                    "niceName": "extended-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }],
+            "states": ["NEW"]
+        }],
+        "states": ["NEW", "USED"]
+    }, {
+        "id": "Chevrolet_Corvette",
+        "name": "Corvette",
+        "niceName": "corvette",
+        "make": {
+            "id": 200000404,
+            "name": "Chevrolet",
+            "niceName": "chevrolet"
+        },
+        "years": [{
+            "id": 401646226,
+            "year": 2017,
+            "styles": [{
+                "id": 401646248,
+                "name": "Grand Sport w/1LT 2dr Coupe (6.2L 8cyl 7M)",
+                "submodel": {
+                    "body": "Coupe",
+                    "modelName": "Corvette Coupe",
+                    "niceName": "coupe"
+                },
+                "trim": "Grand Sport w/1LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401646247,
+                "name": "Grand Sport w/3LT 2dr Coupe (6.2L 8cyl 7M)",
+                "submodel": {
+                    "body": "Coupe",
+                    "modelName": "Corvette Coupe",
+                    "niceName": "coupe"
+                },
+                "trim": "Grand Sport w/3LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401646246,
+                "name": "Grand Sport w/1LT 2dr Convertible (6.2L 8cyl 7M)",
+                "submodel": {
+                    "body": "Convertible",
+                    "modelName": "Corvette Convertible",
+                    "niceName": "convertible"
+                },
+                "trim": "Grand Sport w/1LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401646245,
+                "name": "Grand Sport w/2LT 2dr Coupe (6.2L 8cyl 7M)",
+                "submodel": {
+                    "body": "Coupe",
+                    "modelName": "Corvette Coupe",
+                    "niceName": "coupe"
+                },
+                "trim": "Grand Sport w/2LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401646244,
+                "name": "Grand Sport w/3LT 2dr Convertible (6.2L 8cyl 7M)",
+                "submodel": {
+                    "body": "Convertible",
+                    "modelName": "Corvette Convertible",
+                    "niceName": "convertible"
+                },
+                "trim": "Grand Sport w/3LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401646243,
+                "name": "Stingray Z51 w/2LT 2dr Convertible (6.2L 8cyl 7M)",
+                "submodel": {
+                    "body": "Convertible",
+                    "modelName": "Corvette Convertible",
+                    "niceName": "convertible"
+                },
+                "trim": "Stingray Z51 w/2LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401646242,
+                "name": "Stingray Z51 w/1LT 2dr Coupe (6.2L 8cyl 7M)",
+                "submodel": {
+                    "body": "Coupe",
+                    "modelName": "Corvette Coupe",
+                    "niceName": "coupe"
+                },
+                "trim": "Stingray Z51 w/1LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401646241,
+                "name": "Stingray Z51 w/3LT 2dr Coupe (6.2L 8cyl 7M)",
+                "submodel": {
+                    "body": "Coupe",
+                    "modelName": "Corvette Coupe",
+                    "niceName": "coupe"
+                },
+                "trim": "Stingray Z51 w/3LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401657406,
+                "name": "Z06 w/1LZ 2dr Coupe (6.2L 8cyl S/C 7M)",
+                "submodel": {
+                    "body": "Coupe",
+                    "tuner": "Z06 w/1LZ",
+                    "modelName": "Corvette Z06 w/1LZ",
+                    "niceName": "z06-w1lz"
+                },
+                "trim": "Z06 w/1LZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401657405,
+                "name": "Z06 w/1LZ 2dr Convertible (6.2L 8cyl S/C 7M)",
+                "submodel": {
+                    "body": "Convertible",
+                    "tuner": "Z06 w/1LZ",
+                    "modelName": "Corvette Z06 w/1LZ",
+                    "niceName": "z06-w1lz"
+                },
+                "trim": "Z06 w/1LZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401657408,
+                "name": "Z06 w/3LZ 2dr Convertible (6.2L 8cyl S/C 7M)",
+                "submodel": {
+                    "body": "Convertible",
+                    "tuner": "Z06 w/3LZ",
+                    "modelName": "Corvette Z06 w/3LZ",
+                    "niceName": "z06-w3lz"
+                },
+                "trim": "Z06 w/3LZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401646249,
+                "name": "Grand Sport w/2LT 2dr Convertible (6.2L 8cyl 7M)",
+                "submodel": {
+                    "body": "Convertible",
+                    "modelName": "Corvette Convertible",
+                    "niceName": "convertible"
+                },
+                "trim": "Grand Sport w/2LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401657407,
+                "name": "Z06 w/3LZ 2dr Coupe (6.2L 8cyl S/C 7M)",
+                "submodel": {
+                    "body": "Coupe",
+                    "tuner": "Z06 w/3LZ",
+                    "modelName": "Corvette Z06 w/3LZ",
+                    "niceName": "z06-w3lz"
+                },
+                "trim": "Z06 w/3LZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401657409,
+                "name": "Z06 w/2LZ 2dr Coupe (6.2L 8cyl S/C 7M)",
+                "submodel": {
+                    "body": "Coupe",
+                    "tuner": "Z06 w/2LZ",
+                    "modelName": "Corvette Z06 w/2LZ",
+                    "niceName": "z06-w2lz"
+                },
+                "trim": "Z06 w/2LZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401657410,
+                "name": "Z06 w/2LZ 2dr Convertible (6.2L 8cyl S/C 7M)",
+                "submodel": {
+                    "body": "Convertible",
+                    "tuner": "Z06 w/2LZ",
+                    "modelName": "Corvette Z06 w/2LZ",
+                    "niceName": "z06-w2lz"
+                },
+                "trim": "Z06 w/2LZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401646232,
+                "name": "Stingray Z51 w/3LT 2dr Convertible (6.2L 8cyl 7M)",
+                "submodel": {
+                    "body": "Convertible",
+                    "modelName": "Corvette Convertible",
+                    "niceName": "convertible"
+                },
+                "trim": "Stingray Z51 w/3LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401646233,
+                "name": "Stingray w/2LT 2dr Coupe (6.2L 8cyl 7M)",
+                "submodel": {
+                    "body": "Coupe",
+                    "modelName": "Corvette Coupe",
+                    "niceName": "coupe"
+                },
+                "trim": "Stingray w/2LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401646234,
+                "name": "Stingray Z51 w/2LT 2dr Coupe (6.2L 8cyl 7M)",
+                "submodel": {
+                    "body": "Coupe",
+                    "modelName": "Corvette Coupe",
+                    "niceName": "coupe"
+                },
+                "trim": "Stingray Z51 w/2LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401646235,
+                "name": "Stingray w/3LT 2dr Convertible (6.2L 8cyl 7M)",
+                "submodel": {
+                    "body": "Convertible",
+                    "modelName": "Corvette Convertible",
+                    "niceName": "convertible"
+                },
+                "trim": "Stingray w/3LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401646236,
+                "name": "Stingray w/1LT 2dr Coupe (6.2L 8cyl 7M)",
+                "submodel": {
+                    "body": "Coupe",
+                    "modelName": "Corvette Coupe",
+                    "niceName": "coupe"
+                },
+                "trim": "Stingray w/1LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401646237,
+                "name": "Stingray Z51 w/1LT 2dr Convertible (6.2L 8cyl 7M)",
+                "submodel": {
+                    "body": "Convertible",
+                    "modelName": "Corvette Convertible",
+                    "niceName": "convertible"
+                },
+                "trim": "Stingray Z51 w/1LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401646238,
+                "name": "Stingray w/3LT 2dr Coupe (6.2L 8cyl 7M)",
+                "submodel": {
+                    "body": "Coupe",
+                    "modelName": "Corvette Coupe",
+                    "niceName": "coupe"
+                },
+                "trim": "Stingray w/3LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401646239,
+                "name": "Stingray w/1LT 2dr Convertible (6.2L 8cyl 7M)",
+                "submodel": {
+                    "body": "Convertible",
+                    "modelName": "Corvette Convertible",
+                    "niceName": "convertible"
+                },
+                "trim": "Stingray w/1LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401646240,
+                "name": "Stingray w/2LT 2dr Convertible (6.2L 8cyl 7M)",
+                "submodel": {
+                    "body": "Convertible",
+                    "modelName": "Corvette Convertible",
+                    "niceName": "convertible"
+                },
+                "trim": "Stingray w/2LT",
+                "states": ["NEW"]
+            }],
+            "states": ["NEW"]
+        }],
+        "states": ["NEW", "USED"]
+    }, {
+        "id": "Chevrolet_Cruze",
+        "name": "Cruze",
+        "niceName": "cruze",
+        "make": {
+            "id": 200000404,
+            "name": "Chevrolet",
+            "niceName": "chevrolet"
+        },
+        "years": [{
+            "id": 401640813,
+            "year": 2017,
+            "styles": [{
+                "id": 401657682,
+                "name": "LT 4dr Sedan (1.4L 4cyl Turbo 6M)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "Cruze Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401657681,
+                "name": "LT 4dr Sedan (1.4L 4cyl Turbo 6A)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "Cruze Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401657684,
+                "name": "L 4dr Sedan (1.4L 4cyl Turbo 6M)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "Cruze Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "L",
+                "states": ["NEW"]
+            }, {
+                "id": 401640814,
+                "name": "LT 4dr Hatchback (1.4L 4cyl Turbo 6M)",
+                "submodel": {
+                    "body": "Hatchback",
+                    "modelName": "Cruze Hatchback",
+                    "niceName": "hatchback"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401657683,
+                "name": "LS 4dr Sedan (1.4L 4cyl Turbo 6M)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "Cruze Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401657685,
+                "name": "LS 4dr Sedan (1.4L 4cyl Turbo 6A)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "Cruze Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401657690,
+                "name": "LT 4dr Hatchback (1.4L 4cyl Turbo 6A)",
+                "submodel": {
+                    "body": "Hatchback",
+                    "modelName": "Cruze Hatchback",
+                    "niceName": "hatchback"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401657691,
+                "name": "Premier 4dr Hatchback (1.4L 4cyl Turbo 6A)",
+                "submodel": {
+                    "body": "Hatchback",
+                    "modelName": "Cruze Hatchback",
+                    "niceName": "hatchback"
+                },
+                "trim": "Premier",
+                "states": ["NEW"]
+            }, {
+                "id": 401657680,
+                "name": "Premier 4dr Sedan (1.4L 4cyl Turbo 6A)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "Cruze Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "Premier",
+                "states": ["NEW"]
+            }],
+            "states": ["NEW"]
+        }],
+        "states": ["NEW", "USED"]
+    }, {
+        "id": "Chevrolet_Equinox",
+        "name": "Equinox",
+        "niceName": "equinox",
+        "make": {
+            "id": 200000404,
+            "name": "Chevrolet",
+            "niceName": "chevrolet"
+        },
+        "years": [{
+            "id": 200767372,
+            "year": 2017,
+            "styles": [{
+                "id": 401641757,
+                "name": "LT 4dr SUV AWD (2.4L 4cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Equinox SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401641759,
+                "name": "Premier 4dr SUV AWD (2.4L 4cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Equinox SUV",
+                    "niceName": "suv"
+                },
+                "trim": "Premier",
+                "states": ["NEW"]
+            }, {
+                "id": 200767373,
+                "name": "L 4dr SUV (2.4L 4cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Equinox SUV",
+                    "niceName": "suv"
+                },
+                "trim": "L",
+                "states": ["NEW"]
+            }, {
+                "id": 401641760,
+                "name": "Premier 4dr SUV (2.4L 4cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Equinox SUV",
+                    "niceName": "suv"
+                },
+                "trim": "Premier",
+                "states": ["NEW"]
+            }, {
+                "id": 401641753,
+                "name": "LS 4dr SUV (2.4L 4cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Equinox SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401641754,
+                "name": "LT 4dr SUV (2.4L 4cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Equinox SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401641756,
+                "name": "LS 4dr SUV AWD (2.4L 4cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Equinox SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }],
+            "states": ["NEW"]
+        }],
+        "states": ["NEW", "USED"]
+    }, {
+        "id": "Chevrolet_Impala",
+        "name": "Impala",
+        "niceName": "impala",
+        "make": {
+            "id": 200000404,
+            "name": "Chevrolet",
+            "niceName": "chevrolet"
+        },
+        "years": [{
+            "id": 401642197,
+            "year": 2017,
+            "styles": [{
+                "id": 401642208,
+                "name": "LS CNG 4dr Sedan (3.6L 6cyl 6A)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "Impala Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "LS CNG",
+                "states": ["NEW"]
+            }, {
+                "id": 401642212,
+                "name": "LT 4dr Sedan (2.5L 4cyl 6A)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "Impala Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401642210,
+                "name": "LT CNG 4dr Sedan (3.6L 6cyl 6A)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "Impala Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "LT CNG",
+                "states": ["NEW"]
+            }, {
+                "id": 401642209,
+                "name": "Premier 4dr Sedan (3.6L 6cyl 6A)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "Impala Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "Premier",
+                "states": ["NEW"]
+            }, {
+                "id": 401642213,
+                "name": "LS 4dr Sedan (2.5L 4cyl 6A)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "Impala Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }],
+            "states": ["NEW"]
+        }],
+        "states": ["NEW", "USED"]
+    }, {
+        "id": "Chevrolet_Malibu",
+        "name": "Malibu",
+        "niceName": "malibu",
+        "make": {
+            "id": 200000404,
+            "name": "Chevrolet",
+            "niceName": "chevrolet"
+        },
+        "years": [{
+            "id": 401657957,
+            "year": 2017,
+            "styles": [{
+                "id": 401657959,
+                "name": "L 4dr Sedan (1.5L 4cyl Turbo 6A)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "Malibu Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "L",
+                "states": ["NEW"]
+            }, {
+                "id": 401657960,
+                "name": "LT 4dr Sedan (1.5L 4cyl Turbo 6A)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "Malibu Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401657961,
+                "name": "Premier 4dr Sedan (2.0L 4cyl Turbo 9A)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "Malibu Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "Premier",
+                "states": ["NEW"]
+            }, {
+                "id": 401657962,
+                "name": "LS 4dr Sedan (1.5L 4cyl Turbo 6A)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "Malibu Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401657963,
+                "name": "Hybrid 4dr Sedan (1.8L 4cyl gas/electric hybrid DD)",
+                "submodel": {
+                    "body": "Sedan",
+                    "fuel": "Hybrid",
+                    "modelName": "Malibu Hybrid",
+                    "niceName": "hybrid"
+                },
+                "trim": "Hybrid",
+                "states": ["NEW"]
+            }],
+            "states": ["NEW"]
+        }],
+        "states": ["NEW", "USED"]
+    }, {
+        "id": "Chevrolet_SS",
+        "name": "SS",
+        "niceName": "ss",
+        "make": {
+            "id": 200000404,
+            "name": "Chevrolet",
+            "niceName": "chevrolet"
+        },
+        "years": [{
+            "id": 401695999,
+            "year": 2017,
+            "styles": [{
+                "id": 401696003,
+                "name": "4dr Sedan (6.2L 8cyl 6A)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "SS Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "Base",
+                "states": ["NEW"]
+            }],
+            "states": ["NEW"]
+        }],
+        "states": ["NEW", "USED"]
+    }, {
+        "id": "Chevrolet_Silverado_1500",
+        "name": "Silverado 1500",
+        "niceName": "silverado-1500",
+        "make": {
+            "id": 200000404,
+            "name": "Chevrolet",
+            "niceName": "chevrolet"
+        },
+        "years": [{
+            "id": 200731902,
+            "year": 2017,
+            "styles": [{
+                "id": 401666907,
+                "name": "Z71 LT 2dr Regular Cab 4WD LB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Regular Cab",
+                    "modelName": "Silverado 1500 Regular Cab",
+                    "niceName": "regular-cab"
+                },
+                "trim": "Z71 LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401666908,
+                "name": "LT 2dr Regular Cab LB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Regular Cab",
+                    "modelName": "Silverado 1500 Regular Cab",
+                    "niceName": "regular-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401666905,
+                "name": "Work Truck 2dr Regular Cab SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Regular Cab",
+                    "modelName": "Silverado 1500 Regular Cab",
+                    "niceName": "regular-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401666906,
+                "name": "Work Truck 2dr Regular Cab 4WD LB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Regular Cab",
+                    "modelName": "Silverado 1500 Regular Cab",
+                    "niceName": "regular-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401666911,
+                "name": "LTZ 4dr Crew Cab 4WD 5.8 ft. SB (5.3L 8cyl 8A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LTZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401666912,
+                "name": "LTZ 4dr Crew Cab 6.5 ft. SB (5.3L 8cyl 8A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LTZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401666909,
+                "name": "Work Truck 4dr Double Cab 4WD SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 1500 Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401666910,
+                "name": "Z71 LT 4dr Double Cab 4WD SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 1500 Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "Z71 LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401666899,
+                "name": "LS 4dr Crew Cab 5.8 ft. SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401666900,
+                "name": "LS 2dr Regular Cab 4WD LB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Regular Cab",
+                    "modelName": "Silverado 1500 Regular Cab",
+                    "niceName": "regular-cab"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401666897,
+                "name": "LS 2dr Regular Cab 4WD SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Regular Cab",
+                    "modelName": "Silverado 1500 Regular Cab",
+                    "niceName": "regular-cab"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401666898,
+                "name": "High Country 4dr Crew Cab 5.8 ft. SB (5.3L 8cyl 8A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "High Country",
+                "states": ["NEW"]
+            }, {
+                "id": 401666903,
+                "name": "LT 2dr Regular Cab 4WD LB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Regular Cab",
+                    "modelName": "Silverado 1500 Regular Cab",
+                    "niceName": "regular-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401666904,
+                "name": "Work Truck 2dr Regular Cab LB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Regular Cab",
+                    "modelName": "Silverado 1500 Regular Cab",
+                    "niceName": "regular-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401666901,
+                "name": "Z71 LT 4dr Crew Cab 4WD 6.5 ft. SB (5.3L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "Z71 LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401666902,
+                "name": "LT 4dr Crew Cab 4WD 5.8 ft. SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401666896,
+                "name": "Work Truck 4dr Crew Cab 5.8 ft. SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401666895,
+                "name": "Work Truck 4dr Crew Cab 4WD 6.5 ft. SB (5.3L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401666894,
+                "name": "LT 2dr Regular Cab 4WD SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Regular Cab",
+                    "modelName": "Silverado 1500 Regular Cab",
+                    "niceName": "regular-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401666893,
+                "name": "LS 4dr Crew Cab 6.5 ft. SB (5.3L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401666934,
+                "name": "LS 4dr Crew Cab 4WD 6.5 ft. SB (5.3L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401666933,
+                "name": "High Country 4dr Crew Cab 6.5 ft. SB (5.3L 8cyl 8A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "High Country",
+                "states": ["NEW"]
+            }, {
+                "id": 401666936,
+                "name": "Z71 LTZ 4dr Crew Cab 4WD 5.8 ft. SB (5.3L 8cyl 8A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "Z71 LTZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401666935,
+                "name": "Work Truck 4dr Crew Cab 6.5 ft. SB (5.3L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401666930,
+                "name": "LS 4dr Double Cab SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 1500 Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401666929,
+                "name": "Work Truck 4dr Double Cab SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 1500 Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401666932,
+                "name": "High Country 4dr Crew Cab 4WD 6.5 ft. SB (5.3L 8cyl 8A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "High Country",
+                "states": ["NEW"]
+            }, {
+                "id": 401666931,
+                "name": "LTZ 4dr Double Cab SB (5.3L 8cyl 8A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 1500 Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "LTZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401666942,
+                "name": "LS 4dr Crew Cab 4WD 5.8 ft. SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401666941,
+                "name": "LT 4dr Crew Cab 5.8 ft. SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401666938,
+                "name": "LT 4dr Crew Cab 4WD 6.5 ft. SB (5.3L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401666937,
+                "name": "LTZ 4dr Crew Cab 5.8 ft. SB (5.3L 8cyl 8A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LTZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401666940,
+                "name": "Z71 LT 4dr Crew Cab 4WD 5.8 ft. SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "Z71 LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401666939,
+                "name": "LT 4dr Crew Cab 6.5 ft. SB (5.3L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401666917,
+                "name": "High Country 4dr Crew Cab 4WD 5.8 ft. SB (5.3L 8cyl 8A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "High Country",
+                "states": ["NEW"]
+            }, {
+                "id": 401666918,
+                "name": "Work Truck 4dr Crew Cab 4WD 5.8 ft. SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401666919,
+                "name": "LTZ 4dr Double Cab 4WD SB (5.3L 8cyl 8A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 1500 Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "LTZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401666920,
+                "name": "Z71 LTZ 4dr Double Cab 4WD SB (5.3L 8cyl 8A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 1500 Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "Z71 LTZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401666913,
+                "name": "LTZ 4dr Crew Cab 4WD 6.5 ft. SB (5.3L 8cyl 8A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LTZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401666914,
+                "name": "Z71 LTZ 4dr Crew Cab 4WD 6.5 ft. SB (5.3L 8cyl 8A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 1500 Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "Z71 LTZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401666915,
+                "name": "LS 4dr Double Cab 4WD SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 1500 Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401666916,
+                "name": "LT 4dr Double Cab 4WD SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 1500 Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401666925,
+                "name": "LT 2dr Regular Cab SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Regular Cab",
+                    "modelName": "Silverado 1500 Regular Cab",
+                    "niceName": "regular-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401666926,
+                "name": "Custom 4dr Double Cab SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 1500 Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "Custom",
+                "states": ["NEW"]
+            }, {
+                "id": 401666927,
+                "name": "Custom 4dr Double Cab 4WD SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 1500 Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "Custom",
+                "states": ["NEW"]
+            }, {
+                "id": 401666928,
+                "name": "LT 4dr Double Cab SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 1500 Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401666921,
+                "name": "Work Truck 2dr Regular Cab 4WD SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Regular Cab",
+                    "modelName": "Silverado 1500 Regular Cab",
+                    "niceName": "regular-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401666922,
+                "name": "Z71 LT 2dr Regular Cab 4WD SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Regular Cab",
+                    "modelName": "Silverado 1500 Regular Cab",
+                    "niceName": "regular-cab"
+                },
+                "trim": "Z71 LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401666923,
+                "name": "LS 2dr Regular Cab LB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Regular Cab",
+                    "modelName": "Silverado 1500 Regular Cab",
+                    "niceName": "regular-cab"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401666924,
+                "name": "LS 2dr Regular Cab SB (4.3L 6cyl 6A)",
+                "submodel": {
+                    "body": "Regular Cab",
+                    "modelName": "Silverado 1500 Regular Cab",
+                    "niceName": "regular-cab"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }],
+            "states": ["NEW"]
+        }],
+        "states": ["NEW", "USED"]
+    }, {
+        "id": "Chevrolet_Silverado_2500HD",
+        "name": "Silverado 2500HD",
+        "niceName": "silverado-2500hd",
+        "make": {
+            "id": 200000404,
+            "name": "Chevrolet",
+            "niceName": "chevrolet"
+        },
+        "years": [{
+            "id": 401611387,
+            "year": 2017,
+            "styles": [{
+                "id": 401693741,
+                "name": "LTZ 4dr Crew Cab LB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 2500HD Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LTZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401693742,
+                "name": "LT 4dr Crew Cab LB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 2500HD Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401693743,
+                "name": "LTZ 4dr Crew Cab 4WD LB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 2500HD Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LTZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401693744,
+                "name": "Work Truck 4dr Crew Cab SB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 2500HD Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401693737,
+                "name": "Work Truck 4dr Crew Cab 4WD LB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 2500HD Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401693738,
+                "name": "Work Truck 4dr Crew Cab LB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 2500HD Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401693739,
+                "name": "LTZ 4dr Double Cab LB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 2500HD Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "LTZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401693740,
+                "name": "LTZ 4dr Crew Cab 4WD SB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 2500HD Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LTZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401611391,
+                "name": "High Country 4dr Crew Cab 4WD LB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 2500HD Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "High Country",
+                "states": ["NEW"]
+            }, {
+                "id": 401693765,
+                "name": "Work Truck 4dr Crew Cab 4WD SB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 2500HD Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401693736,
+                "name": "Work Truck 2dr Regular Cab LB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Regular Cab",
+                    "modelName": "Silverado 2500HD Regular Cab",
+                    "niceName": "regular-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401693766,
+                "name": "High Country 4dr Crew Cab SB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 2500HD Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "High Country",
+                "states": ["NEW"]
+            }, {
+                "id": 401693763,
+                "name": "Work Truck 4dr Double Cab 4WD SB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 2500HD Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401693764,
+                "name": "Work Truck 4dr Double Cab 4WD LB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 2500HD Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401693761,
+                "name": "Work Truck 4dr Double Cab LB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 2500HD Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401693762,
+                "name": "LTZ 4dr Crew Cab SB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 2500HD Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LTZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401693758,
+                "name": "LT 4dr Double Cab LB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 2500HD Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401693757,
+                "name": "LT 4dr Double Cab 4WD LB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 2500HD Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401693760,
+                "name": "LT 2dr Regular Cab LB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Regular Cab",
+                    "modelName": "Silverado 2500HD Regular Cab",
+                    "niceName": "regular-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401693759,
+                "name": "Work Truck 4dr Double Cab SB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 2500HD Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401693754,
+                "name": "LTZ 4dr Double Cab 4WD LB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 2500HD Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "LTZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401693753,
+                "name": "LTZ 4dr Double Cab SB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 2500HD Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "LTZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401693756,
+                "name": "LT 4dr Double Cab 4WD SB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 2500HD Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401693755,
+                "name": "LT 4dr Double Cab SB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 2500HD Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401693750,
+                "name": "LT 4dr Crew Cab 4WD SB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 2500HD Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401693749,
+                "name": "High Country 4dr Crew Cab LB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 2500HD Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "High Country",
+                "states": ["NEW"]
+            }, {
+                "id": 401693752,
+                "name": "LTZ 4dr Double Cab 4WD SB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Double Cab",
+                    "modelName": "Silverado 2500HD Double Cab",
+                    "niceName": "double-cab"
+                },
+                "trim": "LTZ",
+                "states": ["NEW"]
+            }, {
+                "id": 401693751,
+                "name": "High Country 4dr Crew Cab 4WD SB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 2500HD Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "High Country",
+                "states": ["NEW"]
+            }, {
+                "id": 401693746,
+                "name": "LT 4dr Crew Cab 4WD LB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 2500HD Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401693745,
+                "name": "Work Truck 2dr Regular Cab 4WD LB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Regular Cab",
+                    "modelName": "Silverado 2500HD Regular Cab",
+                    "niceName": "regular-cab"
+                },
+                "trim": "Work Truck",
+                "states": ["NEW"]
+            }, {
+                "id": 401693748,
+                "name": "LT 4dr Crew Cab SB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Crew Cab",
+                    "modelName": "Silverado 2500HD Crew Cab",
+                    "niceName": "crew-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401693747,
+                "name": "LT 2dr Regular Cab 4WD LB (6.0L 8cyl 6A)",
+                "submodel": {
+                    "body": "Regular Cab",
+                    "modelName": "Silverado 2500HD Regular Cab",
+                    "niceName": "regular-cab"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }],
+            "states": ["NEW"]
+        }],
+        "states": ["NEW", "FUTURE", "USED"]
+    }, {
+        "id": "Chevrolet_Sonic",
+        "name": "Sonic",
+        "niceName": "sonic",
+        "make": {
+            "id": 200000404,
+            "name": "Chevrolet",
+            "niceName": "chevrolet"
+        },
+        "years": [{
+            "id": 401655480,
+            "year": 2017,
+            "styles": [{
+                "id": 401655497,
+                "name": "Premier 4dr Sedan (1.4L 4cyl Turbo 6M)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "Sonic Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "Premier",
+                "states": ["NEW"]
+            }, {
+                "id": 401655488,
+                "name": "LT 4dr Hatchback (1.8L 4cyl 6A)",
+                "submodel": {
+                    "body": "Hatchback",
+                    "modelName": "Sonic Hatchback",
+                    "niceName": "hatchback"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401655492,
+                "name": "LT 4dr Sedan (1.4L Turbo 4cyl 6M)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "Sonic Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401655491,
+                "name": "LT 4dr Hatchback (1.8L 4cyl 5M)",
+                "submodel": {
+                    "body": "Hatchback",
+                    "modelName": "Sonic Hatchback",
+                    "niceName": "hatchback"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401655490,
+                "name": "LS 4dr Sedan (1.8L 4cyl 6A)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "Sonic Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401655489,
+                "name": "LS 4dr Sedan (1.8L 4cyl 5M)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "Sonic Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401655496,
+                "name": "Premier 4dr Hatchback (1.4L 4cyl Turbo 6M)",
+                "submodel": {
+                    "body": "Hatchback",
+                    "modelName": "Sonic Hatchback",
+                    "niceName": "hatchback"
+                },
+                "trim": "Premier",
+                "states": ["NEW"]
+            }, {
+                "id": 401655495,
+                "name": "Premier 4dr Sedan (1.4L 4cyl Turbo 6A)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "Sonic Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "Premier",
+                "states": ["NEW"]
+            }, {
+                "id": 401655494,
+                "name": "Premier 4dr Hatchback (1.4L 4cyl Turbo 6A)",
+                "submodel": {
+                    "body": "Hatchback",
+                    "modelName": "Sonic Hatchback",
+                    "niceName": "hatchback"
+                },
+                "trim": "Premier",
+                "states": ["NEW"]
+            }, {
+                "id": 401655493,
+                "name": "LT 4dr Sedan (1.8L 4cyl 6A)",
+                "submodel": {
+                    "body": "Sedan",
+                    "modelName": "Sonic Sedan",
+                    "niceName": "sedan"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }],
+            "states": ["NEW"]
+        }],
+        "states": ["NEW", "USED"]
+    }, {
+        "id": "Chevrolet_Spark",
+        "name": "Spark",
+        "niceName": "spark",
+        "make": {
+            "id": 200000404,
+            "name": "Chevrolet",
+            "niceName": "chevrolet"
+        },
+        "years": [{
+            "id": 401642030,
+            "year": 2017,
+            "styles": [{
+                "id": 401642032,
+                "name": "1LT 4dr Hatchback (1.4L 4cyl 5M)",
+                "submodel": {
+                    "body": "Hatchback",
+                    "modelName": "Spark Hatchback",
+                    "niceName": "hatchback"
+                },
+                "trim": "1LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401642031,
+                "name": "1LT 4dr Hatchback (1.4L 4cyl CVT)",
+                "submodel": {
+                    "body": "Hatchback",
+                    "modelName": "Spark Hatchback",
+                    "niceName": "hatchback"
+                },
+                "trim": "1LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401642033,
+                "name": "2LT 4dr Hatchback (1.4L 4cyl CVT)",
+                "submodel": {
+                    "body": "Hatchback",
+                    "modelName": "Spark Hatchback",
+                    "niceName": "hatchback"
+                },
+                "trim": "2LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401642034,
+                "name": "LS 4dr Hatchback (1.4L 4cyl 5M)",
+                "submodel": {
+                    "body": "Hatchback",
+                    "modelName": "Spark Hatchback",
+                    "niceName": "hatchback"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401642035,
+                "name": "2LT 4dr Hatchback (1.4L 4cyl 5M)",
+                "submodel": {
+                    "body": "Hatchback",
+                    "modelName": "Spark Hatchback",
+                    "niceName": "hatchback"
+                },
+                "trim": "2LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401642036,
+                "name": "LS 4dr Hatchback (1.4L 4cyl CVT)",
+                "submodel": {
+                    "body": "Hatchback",
+                    "modelName": "Spark Hatchback",
+                    "niceName": "hatchback"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }],
+            "states": ["NEW"]
+        }],
+        "states": ["NEW", "USED"]
+    }, {
+        "id": "Chevrolet_Suburban",
+        "name": "Suburban",
+        "niceName": "suburban",
+        "make": {
+            "id": 200000404,
+            "name": "Chevrolet",
+            "niceName": "chevrolet"
+        },
+        "years": [{
+            "id": 401659726,
+            "year": 2017,
+            "styles": [{
+                "id": 401659729,
+                "name": "Premier 4dr SUV 4WD (5.3L 8cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Suburban SUV",
+                    "niceName": "suv"
+                },
+                "trim": "Premier",
+                "states": ["NEW"]
+            }, {
+                "id": 401659730,
+                "name": "Premier 4dr SUV (5.3L 8cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Suburban SUV",
+                    "niceName": "suv"
+                },
+                "trim": "Premier",
+                "states": ["NEW"]
+            }, {
+                "id": 401659731,
+                "name": "LS 4dr SUV 4WD (5.3L 8cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Suburban SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401659732,
+                "name": "LS 4dr SUV (5.3L 8cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Suburban SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401659733,
+                "name": "LT 4dr SUV (5.3L 8cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Suburban SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401659734,
+                "name": "LT 4dr SUV 4WD (5.3L 8cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Suburban SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }],
+            "states": ["NEW"]
+        }],
+        "states": ["NEW", "USED"]
+    }, {
+        "id": "Chevrolet_Tahoe",
+        "name": "Tahoe",
+        "niceName": "tahoe",
+        "make": {
+            "id": 200000404,
+            "name": "Chevrolet",
+            "niceName": "chevrolet"
+        },
+        "years": [{
+            "id": 401658457,
+            "year": 2017,
+            "styles": [{
+                "id": 401658460,
+                "name": "Premier 4dr SUV (5.3L 8cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Tahoe SUV",
+                    "niceName": "suv"
+                },
+                "trim": "Premier",
+                "states": ["NEW"]
+            }, {
+                "id": 401658465,
+                "name": "Premier 4dr SUV 4WD (5.3L 8cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Tahoe SUV",
+                    "niceName": "suv"
+                },
+                "trim": "Premier",
+                "states": ["NEW"]
+            }, {
+                "id": 401658463,
+                "name": "LT 4dr SUV (5.3L 8cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Tahoe SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401658464,
+                "name": "LT 4dr SUV 4WD (5.3L 8cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Tahoe SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401658461,
+                "name": "LS 4dr SUV (5.3L 8cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Tahoe SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401658462,
+                "name": "LS 4dr SUV 4WD (5.3L 8cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Tahoe SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }],
+            "states": ["NEW"]
+        }],
+        "states": ["NEW", "USED"]
+    }, {
+        "id": "Chevrolet_Traverse",
+        "name": "Traverse",
+        "niceName": "traverse",
+        "make": {
+            "id": 200000404,
+            "name": "Chevrolet",
+            "niceName": "chevrolet"
+        },
+        "years": [{
+            "id": 200732904,
+            "year": 2017,
+            "styles": [{
+                "id": 401640769,
+                "name": "Premier 4dr SUV AWD (3.6L 6cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Traverse SUV",
+                    "niceName": "suv"
+                },
+                "trim": "Premier",
+                "states": ["NEW"]
+            }, {
+                "id": 401640770,
+                "name": "Premier 4dr SUV (3.6L 6cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Traverse SUV",
+                    "niceName": "suv"
+                },
+                "trim": "Premier",
+                "states": ["NEW"]
+            }, {
+                "id": 401640771,
+                "name": "LS 4dr SUV AWD (3.6L 6cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Traverse SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401640772,
+                "name": "LT w/2LT 4dr SUV (3.6L 6cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Traverse SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LT w/2LT",
+                "states": ["NEW"]
+            }, {
+                "id": 200732906,
+                "name": "LS 4dr SUV (3.6L 6cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Traverse SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401640768,
+                "name": "LT w/1LT 4dr SUV (3.6L 6cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Traverse SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LT w/1LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401640767,
+                "name": "LT w/1LT 4dr SUV AWD (3.6L 6cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Traverse SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LT w/1LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401640766,
+                "name": "LT w/2LT 4dr SUV AWD (3.6L 6cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Traverse SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LT w/2LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401640765,
+                "name": "LS Base 4dr SUV (3.6L 6cyl 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Traverse SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LS Base",
+                "states": ["NEW"]
+            }],
+            "states": ["NEW"]
+        }],
+        "states": ["NEW", "USED"]
+    }, {
+        "id": "Chevrolet_Trax",
+        "name": "Trax",
+        "niceName": "trax",
+        "make": {
+            "id": 200000404,
+            "name": "Chevrolet",
+            "niceName": "chevrolet"
+        },
+        "years": [{
+            "id": 401660185,
+            "year": 2017,
+            "styles": [{
+                "id": 401660188,
+                "name": "Premier 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Trax SUV",
+                    "niceName": "suv"
+                },
+                "trim": "Premier",
+                "states": ["NEW"]
+            }, {
+                "id": 401660189,
+                "name": "Premier 4dr SUV (1.4L 4cyl Turbo 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Trax SUV",
+                    "niceName": "suv"
+                },
+                "trim": "Premier",
+                "states": ["NEW"]
+            }, {
+                "id": 401660190,
+                "name": "LS 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Trax SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }, {
+                "id": 401660191,
+                "name": "LT 4dr SUV AWD (1.4L 4cyl Turbo 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Trax SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401660192,
+                "name": "LT 4dr SUV (1.4L 4cyl Turbo 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Trax SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401660193,
+                "name": "LS 4dr SUV (1.4L 4cyl Turbo 6A)",
+                "submodel": {
+                    "body": "SUV",
+                    "modelName": "Trax SUV",
+                    "niceName": "suv"
+                },
+                "trim": "LS",
+                "states": ["NEW"]
+            }],
+            "states": ["NEW"]
+        }],
+        "states": ["NEW", "USED"]
+    }, {
+        "id": "Chevrolet_Volt",
+        "name": "Volt",
+        "niceName": "volt",
+        "make": {
+            "id": 200000404,
+            "name": "Chevrolet",
+            "niceName": "chevrolet"
+        },
+        "years": [{
+            "id": 401626580,
+            "year": 2017,
+            "styles": [{
+                "id": 401626582,
+                "name": "LT 4dr Hatchback (gas/electric hybrid DD)",
+                "submodel": {
+                    "body": "Hatchback",
+                    "modelName": "Volt Hatchback",
+                    "niceName": "hatchback"
+                },
+                "trim": "LT",
+                "states": ["NEW"]
+            }, {
+                "id": 401626581,
+                "name": "Premier 4dr Hatchback (gas/electric hybrid DD)",
+                "submodel": {
+                    "body": "Hatchback",
+                    "modelName": "Volt Hatchback",
+                    "niceName": "hatchback"
+                },
+                "trim": "Premier",
+                "states": ["NEW"]
+            }],
+            "states": ["NEW"]
+        }],
+        "states": ["NEW", "USED"]
+    }],
+    "modelsCount": 19
+}

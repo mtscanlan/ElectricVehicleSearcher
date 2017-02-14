@@ -1,0 +1,31 @@
+{
+  "buildOptions": {
+    "copyToOutput": "TestData\\",
+    "warningsAsErrors": true
+  },
+  "dependencies": {
+    "Clients.EdmundsApi": "1.0.0-*",
+    "dotnet-test-xunit": "1.0.0-rc2-build10025",
+    "Microsoft.Extensions.Primitives": "1.1.0",
+    "Microsoft.NETCore.App": {
+      "version": "1.1.0",
+      "type": "platform"
+    },
+    "NSubstitute": "2.0.1-rc",
+    "System.Diagnostics.TraceSource": "4.3.0",
+    "System.Net.Primitives": "4.3.0",
+    "xunit": "2.1.0",
+    "xunit.extensibility.execution": "2.1.0",
+    "xunit.runner.console": "2.1.0"
+  },
+  "frameworks": {
+    "netcoreapp1.0": {
+      "imports": [
+        "dnxcore50",
+        "portable-net45+win8"
+      ]
+    }
+  },
+  "testRunner": "xunit",
+  "version": "1.0.0-*"
+}
